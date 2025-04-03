@@ -16,7 +16,7 @@ The script is designed to streamline the process of downloading and organizing m
     * Replace `"Add your location here"` with the directory path where you want to save the cloned branches (e.g., `/home/user/my-projects/cloned-repos` or `D:/My Projects/ClonedRepos`).
 
 3.  **Make the Script Executable (Git Bash on Windows or Linux/macOS Terminal):**
-    * Open Git Bash (on Windows) or your terminal (on Linux/macOS).
+    * Open Git Bash (on Windows).
     * Navigate to the directory where you saved the script using the `cd` command.
     * Run the following command to make the script executable:
       
